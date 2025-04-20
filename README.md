@@ -7,7 +7,7 @@
 
 --- 
 - 🌍 I'm based in Nigeria
-- ✉️ You can contact with me here https://www.linkedin.com/in/giftalago)  
+- ✉️ You can contact with on [LinkedIn](https://www.linkedin.com/in/giftalago)  
 - I'm currently exploring 📷**videography** - because tech skills + creativity = magic!
 
 ---
