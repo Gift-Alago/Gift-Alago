@@ -7,9 +7,8 @@
 
 --- 
 - 🌍 I'm based in Nigeria
-- ✉️ You can contact with on [LinkedIn](https://www.linkedin.com/in/giftalago)  
-- I'm currently exploring 📷**videography** - because tech skills + creativity = magic!
-
+- - I'm currently exploring 📷 **videography** - because tech skills + creativity = magic!
+- ✉️ You can connect with on [LinkedIn](https://www.linkedin.com/in/giftalago)  
 ---
 ### 💡 Skills
 - SQL
@@ -19,7 +18,7 @@
 - Customer Onboarding
 - Product support
 - Technical support
-  
+ ---
 ### ✨ Portfolio Highlights 
 
 - `Technical FAQ` — sample support questions & responses  
