@@ -1,17 +1,27 @@
 # Hey there, I’m Gifty! ✨
 ---
-### Tech Support & Product Support Specialist
+### 🙋🏾‍♀️ Tech Support & Product Support Specialist
     > Customer Experience Advocate
     > Problem Solver 
    **I build, test, document, and support — always with users in mind!💡**
 
 --- 
 - 🌍 I'm based in Nigeria
-- ✉️ You can contact me at
+- ✉️ You can contact with me here https://www.linkedin.com/in/
+giftalago)  
 - I'm currently exploring 📷**videography** - because tech skills + creativity = magic!
 
 ---
-### Portfolio Highlights ✨
+### 💡 Skills
+- SQL
+- HTML and CSS
+- API Integration (third party middleware)
+-  Adavanced Troubleshooting (software,hardware,network,API)
+- Customer Onboarding
+- Product support
+- Technical support
+  
+### ✨ Portfolio Highlights 
 
 - `Technical FAQ` — sample support questions & responses  
 - `Workflow Automation` — visual examples and make.com flows  
@@ -20,8 +30,9 @@
   
 ---
 
-### Let’s connect!  
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
-- [Email](mailto:youremail@gmail.com)
+### 🫱🏾 Let’s connect!  
+- [LinkedIn](https://www.linkedin.com/in/
+giftalago)  
+- ✉️ [Email](thegiftalago@gmail.com)
 
 
